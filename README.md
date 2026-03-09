@@ -1,1 +1,1 @@
-# Principles-Of-Data-Analytics
+# Principles Of Data Analytics
