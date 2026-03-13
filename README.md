@@ -1,6 +1,20 @@
 # Principles Of Data Analytics
 
-This is an principles of data analytics repository
+[This README mostly demonstrates the use of Markdown.](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+This is a principles of data analytics repository.
+**This text is bold**
+*This text is italic*
+
+>The coolest repository.
+>
+>*Said everyone*
+
+Some python code.
+```python
+a = 1
+print(a)
+```
 
 ## Installation
 
@@ -12,5 +26,4 @@ This is an principles of data analytics repository
 
 I recommend using Visual Studio Code and Anaconda to run the notebook.
 
-
-https://atu.ie
+[ATU Website](https://atu.ie)
